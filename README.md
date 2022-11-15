@@ -1,7 +1,7 @@
 # Geometric-Shape-Drawing
 Menu driven program that draws the coordinate system and geometric shapes on the console screen.
 
-## Project Description
+# Project Description
 
 The program ask the user to choose one of the following shapes:
 - Line
@@ -18,7 +18,7 @@ After getting required parameters, the program draws the coordinate system on th
 
 Both x and y values in the coordinate system is range at least in [-10,10].
 
-## Output Example
+# Output Example
 
 ![Screenshot 2022-11-15 004820](https://user-images.githubusercontent.com/102357822/201775499-b5171725-d564-4e39-bdc7-fc122d2147cc.png)
 
